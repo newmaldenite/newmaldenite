@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @newmaldenite
-- 👀 I’m interested in lots of things.
-- 🌱 I’m currently learning HTML, CSS, JS.
-- 💞️ I’m not looking to collaborate except on this bootcamp. Or if you need a voice actor ;)
+- 👋 Hi, I’m Nick!
+- 🌱 I’m currently learning Python and ML tools in my spare time.
+- 💞️ I’m open to collaboration - though short on time right now!
 - 📫 How to reach me: https://app.spotlight.com/3333-5613-6702
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Can bake macarons.
+- ⚡ Fun fact: sounds like Pedro Pascal according to the comments on https://www.youtube.com/watch?v=1vBe-Tcehu4
 
 <!---
 newmaldenite/newmaldenite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
